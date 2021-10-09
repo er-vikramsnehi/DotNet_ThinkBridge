@@ -8678,11 +8678,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "X:\\Think Bridge\\Shop Bridge\\Shop_Bridge.csproj",
+      "projectUniqueName": "X:\\ThinkBridge\\Shop Bridge\\Shop_Bridge.csproj",
       "projectName": "Shop_Bridge",
-      "projectPath": "X:\\Think Bridge\\Shop Bridge\\Shop_Bridge.csproj",
+      "projectPath": "X:\\ThinkBridge\\Shop Bridge\\Shop_Bridge.csproj",
       "packagesPath": "C:\\Users\\NowStart.IN\\.nuget\\packages\\",
-      "outputPath": "X:\\Think Bridge\\Shop Bridge\\obj\\",
+      "outputPath": "X:\\ThinkBridge\\Shop Bridge\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

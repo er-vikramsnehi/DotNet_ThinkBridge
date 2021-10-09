@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "zxvdvKXZ2KH6J8rvPRSHjj9bvWhXwVZpLyBtsG4wXrEJn4gP7wmvhbCDMAXlxe+1zOSQIyFmw5GsZpWKRRq8ZQ==",
+  "dgSpecHash": "2SJtIj+gYhIGCJpGSl7LXfRqicVxAawIHJkgvpGg3H6ktIBhudzee7gASY934wUbugJ4Y5KAxf4/orZcVnG6vQ==",
   "success": true,
-  "projectFilePath": "X:\\Think Bridge\\Shop Bridge\\Shop_Bridge.csproj",
+  "projectFilePath": "X:\\ThinkBridge\\Shop Bridge\\Shop_Bridge.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\NowStart.IN\\.nuget\\packages\\azure.core\\1.6.0\\azure.core.1.6.0.nupkg.sha512",
     "C:\\Users\\NowStart.IN\\.nuget\\packages\\azure.identity\\1.3.0\\azure.identity.1.3.0.nupkg.sha512",
